@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.exe
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.deps.json
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.runtimeconfig.json
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.runtimeconfig.dev.json
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.dll
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.pdb
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.AssemblyInfo.cs
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.dll
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.pdb
+C:\Users\User\Desktop\projects\hoteltask\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.genruntimeconfig.cache
